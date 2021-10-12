@@ -1,0 +1,28 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(#ff8800,#a6ff00);
+text-align: center;
+}
+
+img{
+    height: 100px;
+    width:100px;
+}
+
+h3,h4{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
+
+label,div{
+    text-align: center;
+}
